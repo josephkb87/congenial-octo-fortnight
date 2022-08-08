@@ -1,2 +1,2 @@
-# congenial-octo-fortnight
-ATmega8_Proteus_AVR_MicroController_Basics
+# AVR8-USART_Basic_Setup
+ Basic _AVR8-USART_for_Microcontroller Peripherals 
